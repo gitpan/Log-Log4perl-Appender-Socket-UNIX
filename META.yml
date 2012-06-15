@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Log-Log4perl-Appender-Socket-UNIX
-version:            1.00
+version:            1.01
 abstract:           ~
 author:  []
 license:            unknown
