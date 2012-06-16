@@ -10,7 +10,7 @@ use strict;
 use IO::Handle;
 use Socket;
 
-our $VERSION = "1.01";
+our $VERSION = "1.02";
 
 ##################################################
 sub new {
@@ -56,7 +56,7 @@ __END__
 
 =head1 NAME
 
-Log::Log4perl::Appender::UnixDomainSocket - Log to a Unix Domain Socket
+Log::Log4perl::Appender::Socket::UNIX- Log to a Unix Domain Socket
 
 =head1 SYNOPSIS
 
